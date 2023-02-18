@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  * printing in hexadecimal
+ *  * 
  *   *
- *    * 
+ *    * printing numbers
  *     */
 
 int main(void)
