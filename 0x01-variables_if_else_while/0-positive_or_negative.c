@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- *  * main - To show if a number is positivie, negative or zero.
- *  *  
+ *  * code that checks if a number is positivie, negative or zero.
+ *   *
+ *    * 
  *     */
 int main(void)
 {
@@ -26,5 +27,3 @@ int main(void)
 												        }
 							        return (0);
 }
-root@95cd72e1596b:/alx-low_level_programming/0x01-variables_if_else_while# 
-

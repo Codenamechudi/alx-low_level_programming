@@ -2,7 +2,7 @@
 /**
  *  * 
  *   *
- *    * number printing
+ *    * printing numbers
  *     */
 
 int main(void)

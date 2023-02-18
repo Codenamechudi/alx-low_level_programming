@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- *  *  alphabet game
- *   *
+ *  * printing code
  *    * 
  *     */
 int main(void)

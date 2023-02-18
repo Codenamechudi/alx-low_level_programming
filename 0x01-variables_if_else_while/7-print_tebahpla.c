@@ -1,6 +1,6 @@
-#include <stdio.h>
+nclude <stdio.h>
 /**
- *  * mirroring 
+ *  * printing task
  *   *
  *    * 
  *     */
