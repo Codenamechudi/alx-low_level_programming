@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - printer
+ * Return: 0
+ */
 int main(void)
 {
 	char a;
